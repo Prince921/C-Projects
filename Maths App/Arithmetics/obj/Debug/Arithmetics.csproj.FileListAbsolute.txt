@@ -1,0 +1,10 @@
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\bin\Debug\Arithmetics.exe.config
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\bin\Debug\Arithmetics.exe
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\bin\Debug\Arithmetics.pdb
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.csprojAssemblyReference.cache
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.arithmeticOperations.resources
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.Properties.Resources.resources
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.csproj.GenerateResource.cache
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.csproj.CoreCompileInputs.cache
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.exe
+C:\Users\Bluelime\source\repos\Arithmetics\Arithmetics\obj\Debug\Arithmetics.pdb
